@@ -1,0 +1,13 @@
+{
+    "name": "maxime/workshop-service",
+    "authors": [
+        {
+            "name": "Maxime Autechaud",
+            "email": "maxime.autechaud@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {}
+}
